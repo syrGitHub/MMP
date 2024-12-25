@@ -24,9 +24,8 @@ achieves best performance in many metrics. The ablation experiments also verify 
 rationality of the hyperparameter setting.
 
 ## :sparkles: Datasets
-You can obtain all the benchmarks from Google Drive 
+You can obtain all the Solar EUV Image Data from Google Drive 
 
-- Solar Wind Series: https://drive.google.com/drive/folders/1st_0czEofqubJ_bgZ2nBLmUeLJH-ktnL.
 - Solar EUV Images: https://drive.google.com/drive/folders/1TIlm6iWwzz-TDMaY-DNdT0eeb0bK0O5n?usp=sharing.
 
 All the datasets are well pre-processed and can be used easily.
