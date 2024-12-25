@@ -1,0 +1,16 @@
+CUDA_VISIBLE_DEVICES=0 python -u main.py --input_length 1 --predict_length 1 --lr 0.001 --hidden_size 100 --num_layers 1 --kernel_size 3 --drop_rate 0.5 --save_path_pattern model |tee ./Test_results/1_1
+CUDA_VISIBLE_DEVICES=0 python -u main.py --input_length 2 --predict_length 1 --lr 0.001 --hidden_size 100 --num_layers 1 --kernel_size 3 --drop_rate 0.5 --save_path_pattern model |tee ./Test_results/2_1
+CUDA_VISIBLE_DEVICES=0 python -u main.py --input_length 3 --predict_length 1 --lr 0.001 --hidden_size 100 --num_layers 1 --kernel_size 3 --drop_rate 0.5 --save_path_pattern model |tee ./Test_results/3_1
+CUDA_VISIBLE_DEVICES=0 python -u main.py --input_length 4 --predict_length 1 --lr 0.001 --hidden_size 100 --num_layers 1 --kernel_size 3 --drop_rate 0.5 --save_path_pattern model |tee ./Test_results/4_1
+CUDA_VISIBLE_DEVICES=0 python -u main.py --input_length 1 --predict_length 2 --lr 0.001 --hidden_size 100 --num_layers 1 --kernel_size 3 --drop_rate 0.5 --save_path_pattern model |tee ./Test_results/1_2
+CUDA_VISIBLE_DEVICES=0 python -u main.py --input_length 2 --predict_length 2 --lr 0.001 --hidden_size 100 --num_layers 1 --kernel_size 3 --drop_rate 0.5 --save_path_pattern model |tee ./Test_results/2_2
+CUDA_VISIBLE_DEVICES=0 python -u main.py --input_length 3 --predict_length 2 --lr 0.001 --hidden_size 100 --num_layers 1 --kernel_size 3 --drop_rate 0.5 --save_path_pattern model |tee ./Test_results/3_2
+CUDA_VISIBLE_DEVICES=0 python -u main.py --input_length 4 --predict_length 2 --lr 0.001 --hidden_size 100 --num_layers 1 --kernel_size 3 --drop_rate 0.5 --save_path_pattern model |tee ./Test_results/4_2
+CUDA_VISIBLE_DEVICES=0 python -u main.py --input_length 1 --predict_length 3 --lr 0.001 --hidden_size 100 --num_layers 1 --kernel_size 3 --drop_rate 0.5 --save_path_pattern model |tee ./Test_results/1_3
+CUDA_VISIBLE_DEVICES=0 python -u main.py --input_length 2 --predict_length 3 --lr 0.001 --hidden_size 100 --num_layers 1 --kernel_size 3 --drop_rate 0.5 --save_path_pattern model |tee ./Test_results/2_3
+CUDA_VISIBLE_DEVICES=0 python -u main.py --input_length 3 --predict_length 3 --lr 0.001 --hidden_size 100 --num_layers 1 --kernel_size 3 --drop_rate 0.5 --save_path_pattern model |tee ./Test_results/3_3
+CUDA_VISIBLE_DEVICES=0 python -u main.py --input_length 4 --predict_length 3 --lr 0.001 --hidden_size 100 --num_layers 1 --kernel_size 3 --drop_rate 0.5 --save_path_pattern model |tee ./Test_results/4_3
+CUDA_VISIBLE_DEVICES=0 python -u main.py --input_length 1 --predict_length 4 --lr 0.001 --hidden_size 100 --num_layers 1 --kernel_size 3 --drop_rate 0.5 --save_path_pattern model |tee ./Test_results/1_4
+CUDA_VISIBLE_DEVICES=0 python -u main.py --input_length 2 --predict_length 4 --lr 0.001 --hidden_size 100 --num_layers 1 --kernel_size 3 --drop_rate 0.5 --save_path_pattern model |tee ./Test_results/2_4
+CUDA_VISIBLE_DEVICES=0 python -u main.py --input_length 3 --predict_length 4 --lr 0.001 --hidden_size 100 --num_layers 1 --kernel_size 3 --drop_rate 0.5 --save_path_pattern model |tee ./Test_results/3_4
+CUDA_VISIBLE_DEVICES=0 python -u main.py --input_length 4 --predict_length 4 --lr 0.001 --hidden_size 100 --num_layers 1 --kernel_size 3 --drop_rate 0.5 --save_path_pattern model |tee ./Test_results/4_4
