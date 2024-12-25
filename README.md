@@ -33,7 +33,9 @@ All the datasets are well pre-processed and can be used easily.
 
 ## :sparkles: How to Run the Code:
 
-We provide the experiment scripts. Now you can reproduce the experiment results by:
+1. Install requirements. pip install -r requirements.txt
+
+2. Train the model. We provide the experiment scripts. Now you can reproduce the experiment results by:
 
 ```javascript
 sh run.sh
