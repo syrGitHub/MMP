@@ -1,10 +1,10 @@
-# Hierarchical Classification Auxiliary Network for Time Series Forecasting
+# Accurate Solar Wind Speed Prediction with Multimodality Information
 
 [![Space: Science & Technology](https://img.shields.io/badge/Space'22-MMP-orange)](https://spj.science.org/doi/epdf/10.34133/2022/9805707)  ![Stars](https://img.shields.io/github/stars/syrGitHub/MMP)  ![Visits Badge](https://badges.pufler.dev/visits/syrGitHub/MMP)
 
 This code is the official PyTorch implementation of our Space: Science & Technology'22 paper: [Accurate Solar Wind Speed Prediction with Multimodality Information](https://spj.science.org/doi/epdf/10.34133/2022/9805707).
 
-🚩 News (2022.07) HCAN has been accepted by Space: Science & Technology 2022.
+🚩 News (2022.07) MMP has been accepted by Space: Science & Technology 2022.
 
 ## :sparkles: Abstract
 ![model](model.png)
