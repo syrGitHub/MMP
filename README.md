@@ -44,4 +44,4 @@ sh run.sh
 
 The codes in this repository are inspired by the following:
 
-- GoogleNet: [https://github.com/zhouhaoyi/Informer2020](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf)
+- GoogleNet: [https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf)
