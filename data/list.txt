@@ -1,0 +1,7 @@
+speed
+temperature
+density
+pressure
+sigma-B
+ICME
+Area
